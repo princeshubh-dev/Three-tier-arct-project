@@ -142,10 +142,6 @@ This is a demo application and lacks several security features that would be nec
 - Protection against SQL injection (although PDO with prepared statements is used)
 - CORS configuration
 
-## License
-
-This project is released under the MIT License.
-
 ## Acknowledgements
 
 This sample application was created as a demonstration of AWS three-tier architecture principles.
